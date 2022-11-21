@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adventurerartist/static/css/main.073c9b0a.css",
-    "main.js": "/adventurerartist/static/js/main.35ec2e0b.js",
-    "static/js/787.e0da513c.chunk.js": "/adventurerartist/static/js/787.e0da513c.chunk.js",
-    "index.html": "/adventurerartist/index.html",
-    "main.073c9b0a.css.map": "/adventurerartist/static/css/main.073c9b0a.css.map",
-    "main.35ec2e0b.js.map": "/adventurerartist/static/js/main.35ec2e0b.js.map",
-    "787.e0da513c.chunk.js.map": "/adventurerartist/static/js/787.e0da513c.chunk.js.map"
+    "main.css": "/Catherine-PL/adventurerartist/static/css/main.073c9b0a.css",
+    "main.js": "/Catherine-PL/adventurerartist/static/js/main.a51b77c6.js",
+    "static/js/787.e0da513c.chunk.js": "/Catherine-PL/adventurerartist/static/js/787.e0da513c.chunk.js",
+    "index.html": "/Catherine-PL/adventurerartist/index.html",
+    "main.073c9b0a.css.map": "/Catherine-PL/adventurerartist/static/css/main.073c9b0a.css.map",
+    "main.a51b77c6.js.map": "/Catherine-PL/adventurerartist/static/js/main.a51b77c6.js.map",
+    "787.e0da513c.chunk.js.map": "/Catherine-PL/adventurerartist/static/js/787.e0da513c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.35ec2e0b.js"
+    "static/js/main.a51b77c6.js"
   ]
 }
