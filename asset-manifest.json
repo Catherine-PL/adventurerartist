@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adventurerartist/static/css/main.073c9b0a.css",
-    "main.js": "/adventurerartist/static/js/main.35ec2e0b.js",
-    "static/js/787.e0da513c.chunk.js": "/adventurerartist/static/js/787.e0da513c.chunk.js",
-    "index.html": "/adventurerartist/index.html",
-    "main.073c9b0a.css.map": "/adventurerartist/static/css/main.073c9b0a.css.map",
-    "main.35ec2e0b.js.map": "/adventurerartist/static/js/main.35ec2e0b.js.map",
-    "787.e0da513c.chunk.js.map": "/adventurerartist/static/js/787.e0da513c.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.4a7d9496.js",
+    "static/js/787.e0da513c.chunk.js": "/static/js/787.e0da513c.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.4a7d9496.js.map": "/static/js/main.4a7d9496.js.map",
+    "787.e0da513c.chunk.js.map": "/static/js/787.e0da513c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.35ec2e0b.js"
+    "static/js/main.4a7d9496.js"
   ]
 }
